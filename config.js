@@ -1,1 +1,1 @@
-console.log('config.js 03');
+console.log('config.js');
